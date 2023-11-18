@@ -15,6 +15,9 @@
       usage.
     - The internal digest algorithm can be changed.
 
+### Removed
+- **BREAKING**: Remove `application/nquads` alias for `application/n-quads`.
+
 ## 8.3.2 - 2023-12-06
 
 ### Fixed
